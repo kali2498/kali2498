@@ -37,14 +37,35 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-more-261178228/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:akashmore2410@gmail.com)
 
-## 📊 Github Stats
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/kali2498/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kali2498&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	 
-  <br/>
-  </p>
+
+## 📊 My Github Stats
+<img src="https://github-profile-trophy.vercel.app/?username=Shivamt2107&theme=algolia" align="center" alt="Shivamt2107" width="100%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivamt2107&theme=2077" width="100%" />
+<a href="https://github.com/Shivamt2107/github-readme-activity-graph"><img alt="Shivamt2107 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shivamt2107&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area_color=39d5e3&area=true" /></a>
+
+
+![GitHub metrics](https://metrics.lecoq.io/Shivamt2107) 
+
+## ❤ Views and Followers
+<a href="https://github.com/Shivamt2107/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Shivamt2107">
+</a>
+<a href="https://github.com/Shivamt2107?tab=followers"><img src="https://img.shields.io/github/followers/Shivamt2107?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+ </p>
+<img margin="auto" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+<!---
+Shivamt2107/Shivamt2107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
