@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React JS**
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/akash-more-261178228/)
+- 📫 How to reach me [LinkedIn]([https://www.linkedin.com/in/akash-more-261178228/](https://www.linkedin.com/in/akash-more-680180258/))
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Aojii-JaYZT0cQxSn_1OGYcKqNVhooMD/view?usp=sharing)
 
@@ -40,18 +40,18 @@
 
 
 ## 📊 My Github Stats
-<img src="https://github-profile-trophy.vercel.app/?username=Shivamt2107&theme=algolia" align="center" alt="Shivamt2107" width="100%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivamt2107&theme=2077" width="100%" />
-<a href="https://github.com/Shivamt2107/github-readme-activity-graph"><img alt="Shivamt2107 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shivamt2107&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area_color=39d5e3&area=true" /></a>
+<img src="https://github-profile-trophy.vercel.app/?username=kali2498&theme=algolia" align="center" alt="kali2498" width="100%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kali2498&theme=2077" width="100%" />
+<a href="https://github.com/kali2498/github-readme-activity-graph"><img alt="kali2498 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kali2498&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area_color=39d5e3&area=true" /></a>
 
 
-![GitHub metrics](https://metrics.lecoq.io/Shivamt2107) 
+![GitHub metrics](https://metrics.lecoq.io/kali2498) 
 
 ## ❤ Views and Followers
-<a href="https://github.com/Shivamt2107/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Shivamt2107">
+<a href="https://github.com/kali2498/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=kali2498">
 </a>
-<a href="https://github.com/Shivamt2107?tab=followers"><img src="https://img.shields.io/github/followers/Shivamt2107?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/kali2498?tab=followers"><img src="https://img.shields.io/github/followers/kali2498?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 <div align="center">
@@ -66,6 +66,6 @@
  </p>
 <img margin="auto" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <!---
-Shivamt2107/Shivamt2107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kali2498/kali2498 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
