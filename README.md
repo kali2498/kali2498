@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React JS**
 
-- 📫 How to reach me [LinkedIn]((https://www.linkedin.com/in/akash-more-680180258/))
+- 📫 How to reach me [Linkdin](https://www.linkedin.com/in/akash-more-680180258/)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Aojii-JaYZT0cQxSn_1OGYcKqNVhooMD/view?usp=sharing)
 
