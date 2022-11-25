@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React JS**
 
-- 📫 How to reach me [LinkedIn]([https://www.linkedin.com/in/akash-more-261178228/](https://www.linkedin.com/in/akash-more-680180258/))
+- 📫 How to reach me [LinkedIn]((https://www.linkedin.com/in/akash-more-680180258/))
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Aojii-JaYZT0cQxSn_1OGYcKqNVhooMD/view?usp=sharing)
 
@@ -34,7 +34,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 [![Portfolio]()
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-more-261178228/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/akash-more-680180258/))
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:akashmore2410@gmail.com)
 
 
