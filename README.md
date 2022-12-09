@@ -14,7 +14,7 @@
 
 - 📫 How to reach me [Linkdin](https://www.linkedin.com/in/akash-more-680180258/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Aojii-JaYZT0cQxSn_1OGYcKqNVhooMD/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iBkH4fXcID3OV8aXEHtJCLw5qzijhQM9/view?usp=sharing)
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
