@@ -46,7 +46,7 @@
 <br>
 
 ## 📊 My Github Stats
-<img src="https://github-profile-trophy.vercel.app/?username=shivamt2107&theme=algolia" align="center" alt="kali2498" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=kali2498&theme=algolia" align="center" alt="kali2498" width="100%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kali2498&theme=2077" width="100%" />
 
 
