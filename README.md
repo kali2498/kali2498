@@ -52,6 +52,8 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/kali2498) 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kali2498&bg_color=080808&color=c4cdcf&line=6e5fb9&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## ❤ Views and Followers
 <a href="https://github.com/kali2498/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=kali2498">
