@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush-agrawal6&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-agrawal6" /> </p>
 
 ## :sassy_man:  About me
-  I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and make use of them to solve real-life problems.
+I'm a passionate Full Stack Web developer skilled in MERN stack , I love to creat web platform that propple the organization growth and to learn new technology and implement it in my projecs. Some technologies that i enjoy working with includes React js, Node js , javascript and typescript✨.
 
 - 🔭 I’m currently working on my [Porfolio](https://kali2498.github.io/)
 
