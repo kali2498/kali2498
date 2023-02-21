@@ -8,13 +8,11 @@ I'm a passionate Full Stack Web developer skilled in MERN stack , I love to crea
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [Repos](https://github.com/kali2498?tab=repositories)
-
 - 💬 Ask me about **React JS**
 
 - 📫 How to reach me [Linkdin](www.linkedin.com/in/akash-more24/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WDA8Gg423950PA7_8OAqW1FHldQYVJRe/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ga3UzRAmD2SeOA885Zh38MrYuttsnoF4/view?usp=sharing)
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
