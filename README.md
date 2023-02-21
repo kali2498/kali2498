@@ -10,7 +10,7 @@ I'm a passionate Full Stack Web developer skilled in MERN stack , I love to crea
 
 - 💬 Ask me about **React JS**
 
-- 📫 How to reach me [Linkdin]([www.linkedin.com/in/akash-more24/](https://www.linkedin.com/in/akash-more24/))
+- 📫 How to reach me [Linkdin](https://www.linkedin.com/in/akash-more24/)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ga3UzRAmD2SeOA885Zh38MrYuttsnoF4/view?usp=sharing)
 
