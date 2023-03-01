@@ -50,7 +50,18 @@ I'm a passionate Full Stack Web developer skilled in MERN stack , I love to crea
 
 ![GitHub metrics](https://metrics.lecoq.io/kali2498) 
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kali2498&show_icons=true&locale=en" alt="akash" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kali2498&" alt="akash" /></p>
+
+<br/>
+
+
+<br/>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kali2498&bg_color=080808&color=c4cdcf&line=6e5fb9&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ## ❤ Views and Followers
 <a href="https://github.com/kali2498/github-profile-views-counter">
