@@ -12,7 +12,7 @@ I'm a passionate Full Stack Web developer skilled in MERN stack , I love to crea
 
 - 📫 How to reach me [Linkdin](https://www.linkedin.com/in/akash-more24/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tYzTgBr4SXtBPrKh2fulMHOq85aYLWsD/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_Rh-CbokzlhUW6oLE57k63WHdt5qI5LJ/view?usp=sharing)
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
