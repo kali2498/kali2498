@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush-agrawal6&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-agrawal6" /> </p>
 
 ## :sassy_man:  About me
-I am a highly motivated and detail-oriented full-stack developer with a specialization in the MERN stack. I am passionate about building user-centric designs and solving complex business problems with technical solutions. With my expertise in HTML, CSS, JavaScript, JSON, React, Node, Express, Redux, TypeScript, and other frameworks, I can develop scalable and high-performance web applications that meet the needs of clients. I possess strong soft skills, including decision-making, teamwork, problem-solving, remote work, and online collaboration, which are crucial for success in the tech industry.
+I am a passionate full-stack developer with expertise in the MERN stack and a focus on building user-centric designs. With strong technical skills in HTML, CSS, JavaScript, React, Node, and more, I am dedicated to solving complex business problems with elegant technical solutions. Additionally, my soft skills in decision-making, teamwork, problem-solving, remote work, and online collaboration make me a valuable asset in any workplace.
 
 - 🔭 I’m currently working on my [Porfolio](https://kali2498.github.io/)
 
