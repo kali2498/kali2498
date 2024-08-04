@@ -4,21 +4,21 @@
 ## :sassy_man:  About me
 I am a passionate full-stack developer with expertise in the MERN stack and a focus on building user-centric designs. With strong technical skills in HTML, CSS, JavaScript, React, Node, and more, I am dedicated to solving complex business problems with elegant technical solutions. Additionally, my soft skills in decision-making, teamwork, problem-solving, remote work, and online collaboration make me a valuable asset in any workplace.
 
-- 🔭 I’m currently working on my [Porfolio](https://kali2498.github.io/)
+- 🔭 I’m currently working on my [Porfolio]()
 
 - 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **React JS**
 
-- 📫 How to reach me [Linkdin](https://www.linkedin.com/in/akash-more24/)
+- 📫 How to reach me [Linkdin]()
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MSaIMOvz4L5Lii9rUx5GTMu26id2NrVI/view?usp=sharing)
+- 📄 Know about my experiences [Resume]()
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
   <a href="https://github.com/kali2498" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
-<a href="https://twitter.com/AkashMo68885052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/akash-more-680180258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 </p>
 <br>
